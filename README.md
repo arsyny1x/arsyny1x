@@ -3,7 +3,7 @@
 
 # Hey, I'm arsyny1x 👋
 
-### Full Stack Developer | Embedded Systems | AI Enthusiast
+### Full Stack Developer
 
 Building software, automations, AI agents & hardware projects.
 
