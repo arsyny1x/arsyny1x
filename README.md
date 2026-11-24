@@ -83,7 +83,7 @@ Building software, automations, AI agents & hardware projects.
 - Python Scripting
 - Linux & Server Administration
 - Embedded Systems Programming
-- ESP32 / Arduino / STM32
+- ESP32 / Arduino
 - IoT & Hardware Integration
 
 ---
